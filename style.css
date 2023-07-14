@@ -35,6 +35,5 @@ main{
 }
 
 #principal{
-    height: 154px;
-    padding: 5px;
+    height: fit-content;
 }
