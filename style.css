@@ -29,6 +29,8 @@ main{
     width: 337px;
     padding: 5px;
     margin: auto;
+    margin-top: auto;
+    margin-bottom: auto;
 
 }
 
